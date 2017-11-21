@@ -1,0 +1,10 @@
+F:\GitWorkspace\Chris.Models\Chris.Models\bin\Debug\Chris.Models.dll
+F:\GitWorkspace\Chris.Models\Chris.Models\bin\Debug\Chris.Models.pdb
+F:\GitWorkspace\Chris.Models\Chris.Models\obj\Debug\Chris.Models.dll
+F:\GitWorkspace\Chris.Models\Chris.Models\obj\Debug\Chris.Models.pdb
+F:\GitWorkspace\Chris.Models\Chris.Models\obj\Debug\Chris.Models.csprojResolveAssemblyReference.cache
+F:\Projects\Chris\Chris.Models\Chris.Models\bin\Debug\Chris.Models.dll
+F:\Projects\Chris\Chris.Models\Chris.Models\bin\Debug\Chris.Models.pdb
+F:\Projects\Chris\Chris.Models\Chris.Models\obj\Debug\Chris.Models.csprojResolveAssemblyReference.cache
+F:\Projects\Chris\Chris.Models\Chris.Models\obj\Debug\Chris.Models.dll
+F:\Projects\Chris\Chris.Models\Chris.Models\obj\Debug\Chris.Models.pdb

@@ -1,0 +1,14 @@
+F:\GitWorkspace\Chris.Infrastructure\Chris.Infrastructure.Transactions\bin\Debug\Chris.Infrastructure.Transactions.dll
+F:\GitWorkspace\Chris.Infrastructure\Chris.Infrastructure.Transactions\bin\Debug\Chris.Infrastructure.Transactions.pdb
+F:\GitWorkspace\Chris.Infrastructure\Chris.Infrastructure.Transactions\bin\Debug\Chris.Models.dll
+F:\GitWorkspace\Chris.Infrastructure\Chris.Infrastructure.Transactions\bin\Debug\Chris.Models.pdb
+F:\GitWorkspace\Chris.Infrastructure\Chris.Infrastructure.Transactions\obj\Debug\Chris.Infrastructure.Transactions.csprojResolveAssemblyReference.cache
+F:\GitWorkspace\Chris.Infrastructure\Chris.Infrastructure.Transactions\obj\Debug\Chris.Infrastructure.Transactions.dll
+F:\GitWorkspace\Chris.Infrastructure\Chris.Infrastructure.Transactions\obj\Debug\Chris.Infrastructure.Transactions.pdb
+F:\Projects\Chris\Chris.Infrastructure\Chris.Infrastructure.Transactions\bin\Debug\Chris.Infrastructure.Transactions.dll
+F:\Projects\Chris\Chris.Infrastructure\Chris.Infrastructure.Transactions\bin\Debug\Chris.Infrastructure.Transactions.pdb
+F:\Projects\Chris\Chris.Infrastructure\Chris.Infrastructure.Transactions\bin\Debug\Chris.Models.dll
+F:\Projects\Chris\Chris.Infrastructure\Chris.Infrastructure.Transactions\bin\Debug\Chris.Models.pdb
+F:\Projects\Chris\Chris.Infrastructure\Chris.Infrastructure.Transactions\obj\Debug\Chris.Infrastructure.Transactions.csprojResolveAssemblyReference.cache
+F:\Projects\Chris\Chris.Infrastructure\Chris.Infrastructure.Transactions\obj\Debug\Chris.Infrastructure.Transactions.dll
+F:\Projects\Chris\Chris.Infrastructure\Chris.Infrastructure.Transactions\obj\Debug\Chris.Infrastructure.Transactions.pdb

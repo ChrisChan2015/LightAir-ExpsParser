@@ -1,0 +1,14 @@
+F:\Projects\Chris\LightAirExpsParser\Chris.Models\Chris.Models\bin\Debug\Chris.LightAir.Models.dll
+F:\Projects\Chris\LightAirExpsParser\Chris.Models\Chris.Models\bin\Debug\Chris.LightAir.Models.pdb
+F:\Projects\Chris\LightAirExpsParser\Chris.Models\Chris.Models\obj\Debug\LightAir.Models.csprojResolveAssemblyReference.cache
+F:\Projects\Chris\LightAirExpsParser\Chris.Models\Chris.Models\obj\Debug\Chris.LightAir.Models.dll
+F:\Projects\Chris\LightAirExpsParser\Chris.Models\Chris.Models\obj\Debug\Chris.LightAir.Models.pdb
+C:\Users\Yowbo\Desktop\新建文件夹\Chris.Data.Parsers\Chris.LightAir.Models\bin\Debug\Chris.LightAir.Models.dll
+C:\Users\Yowbo\Desktop\新建文件夹\Chris.Data.Parsers\Chris.LightAir.Models\bin\Debug\Chris.LightAir.Models.pdb
+C:\Users\Yowbo\Desktop\新建文件夹\Chris.Data.Parsers\Chris.LightAir.Models\obj\Debug\Chris.LightAir.Models.dll
+C:\Users\Yowbo\Desktop\新建文件夹\Chris.Data.Parsers\Chris.LightAir.Models\obj\Debug\Chris.LightAir.Models.pdb
+F:\Projects\Chris\LightAirExpsParser\Chris.LightAir.Models\bin\Debug\Chris.LightAir.Models.dll
+F:\Projects\Chris\LightAirExpsParser\Chris.LightAir.Models\bin\Debug\Chris.LightAir.Models.pdb
+F:\Projects\Chris\LightAirExpsParser\Chris.LightAir.Models\obj\Debug\LightAir.Models.csprojResolveAssemblyReference.cache
+F:\Projects\Chris\LightAirExpsParser\Chris.LightAir.Models\obj\Debug\Chris.LightAir.Models.dll
+F:\Projects\Chris\LightAirExpsParser\Chris.LightAir.Models\obj\Debug\Chris.LightAir.Models.pdb

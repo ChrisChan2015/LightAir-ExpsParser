@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightAir.Data.ParserBase", "Chris.LightAir.Data.ParserBase\LightAir.Data.ParserBase.csproj", "{5D0330FC-426C-4264-A281-6FE030288085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightAir.Data.Parsers.InConsoleTest", "Chris.LightAir.Data.Parsers.InConsoleTest\LightAir.Data.Parsers.InConsoleTest.csproj", "{B2887DA5-EAB3-4AF7-9486-F321C46BBDC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightAir.Data.SqlParser", "Chris.LightAir.Data.SqlParser\LightAir.Data.SqlParser.csproj", "{2B21599C-C066-4291-9D07-0E220646D6F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightAir.Infrastructure.Transactions", "Chris.LightAir.Infrastructure.Transactions\LightAir.Infrastructure.Transactions.csproj", "{FC61925C-54B6-419D-9676-E0D4CDC6AB0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightAir.Models", "Chris.LightAir.Models\LightAir.Models.csproj", "{49B40C4E-8CDA-4697-9DC1-8CED4267C4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0330FC-426C-4264-A281-6FE030288085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0330FC-426C-4264-A281-6FE030288085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0330FC-426C-4264-A281-6FE030288085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0330FC-426C-4264-A281-6FE030288085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2887DA5-EAB3-4AF7-9486-F321C46BBDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2887DA5-EAB3-4AF7-9486-F321C46BBDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2887DA5-EAB3-4AF7-9486-F321C46BBDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2887DA5-EAB3-4AF7-9486-F321C46BBDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B21599C-C066-4291-9D07-0E220646D6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B21599C-C066-4291-9D07-0E220646D6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B21599C-C066-4291-9D07-0E220646D6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B21599C-C066-4291-9D07-0E220646D6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC61925C-54B6-419D-9676-E0D4CDC6AB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC61925C-54B6-419D-9676-E0D4CDC6AB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC61925C-54B6-419D-9676-E0D4CDC6AB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC61925C-54B6-419D-9676-E0D4CDC6AB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B40C4E-8CDA-4697-9DC1-8CED4267C4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B40C4E-8CDA-4697-9DC1-8CED4267C4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B40C4E-8CDA-4697-9DC1-8CED4267C4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B40C4E-8CDA-4697-9DC1-8CED4267C4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
